@@ -1,4 +1,7 @@
 img/
+*.odg
+*.mp4
+*.AVI
 
 # Created by https://www.gitignore.io/api/phpstorm
 
